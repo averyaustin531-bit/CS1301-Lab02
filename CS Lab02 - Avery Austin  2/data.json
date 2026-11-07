@@ -1,0 +1,644 @@
+{
+    "chart_title": "Your ZIP Code Has a Playlist",
+    "data_points": [
+        {
+	    "city": "Atlanta",
+	    "rank": 1, 
+	    "region": "South",
+	    "song": "WTF GOIN",
+	    "artist": "Belly Gang Kushington",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 2, 
+	    "region": "South",
+	    "song": "BANKS HOUSE",
+	    "artist": "Fatt Smaxk",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 3, 
+	    "region": "South",
+	    "song": "In A Minute",
+	    "artist": "Lil Baby",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 4, 
+	    "region": "South",
+	    "song": "Dope Girl",
+	    "artist": "Rod Wave",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 5, 
+	    "region": "South",
+	    "song": "Freestyle",
+	    "artist": "Lil Baby",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 6, 
+	    "region": "South",
+	    "song": "hunnid PROBLEMS",
+	    "artist": "YFN Lucci",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 7, 
+	    "region": "South",
+	    "song": "Frozen",
+	    "artist": "Lil Baby",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 8, 
+	    "region": "South",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 9, 
+	    "region": "South",
+	    "song": "Dead Fresh",
+	    "artist": "Lil Baby",
+	    "genre": "Hip-Hop/Rap"
+        },
+	{
+            "city": "Atlanta",
+            "rank": 10, 
+	    "region": "South",
+	    "song": "LIKE ME",
+	    "artist": "Future (feat. 42 Dugg & Lil Baby)",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Nashville",
+            "rank": 1, 
+	    "region": "South",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+{
+            "city": "Nashville",
+            "rank": 2, 
+	    "region": "South",
+	    "song": "Lies",
+	    "artist": "Zach Bryan, Lana Del Rey",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 3, 
+	    "region": "South",
+	    "song": "Last Thing You Need",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 4, 
+	    "region": "South",
+	    "song": "Been By Now",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 5, 
+	    "region": "South",
+	    "song": "Choosin' Texas",
+	    "artist": "Ella Langley",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 6, 
+	    "region": "South",
+	    "song": "Lodi When",
+	    "artist": "Zach Bryan",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 7, 
+	    "region": "South",
+	    "song": "Don't We",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 8, 
+	    "region": "South",
+	    "song": "I'm The Problem",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 9, 
+	    "region": "South",
+	    "song": "Just In Case",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Nashville",
+            "rank": 10, 
+	    "region": "South",
+	    "song": "I Can't Love You Anymore",
+	    "artist": "Ella Langley & Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 1, 
+	    "region": "West",
+	    "song": "Bby WOW",
+	    "artist": "KAROL G, Judeline, rusowsky",
+	    "genre": "Latin"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 2, 
+	    "region": "West",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 3, 
+	    "region": "West",
+	    "song": "Nicole Kidman",
+	    "artist": "ADÉLA",
+	    "genre": "Pop"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 4,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+	    "region": "West",
+	    "song": "Solar Eclipse",
+	    "artist":"Drake & Don Toliver",
+	    "genre": "R&B/Soul"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 5, 
+	    "region": "West",
+	    "song": "Marlboro Rojo",
+	    "artist": "Fuerza Regida",
+	    "genre": "Latin"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 6, 
+	    "region": "West",
+	    "song": "ME JALO",
+	    "artist": "Fuerza Regida & Grupo Frontera",
+	    "genre": "Latin"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 7, 
+	    "region": "West",
+	    "song": "nothing",
+	    "artist": "Steve Lacy",
+	    "genre": "R&B/Soul"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 8, 
+	    "region": "West",
+	    "song": "EXCESOS",
+	    "artist": "Fuerza Regida",
+	    "genre": "Latin"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 9, 
+	    "region": "West",
+	    "song": "TU SANCHO",
+	    "artist": "Fuerza Regida",
+	    "genre": "Latin"
+        },
+{
+            "city": "Los Angeles",
+            "rank": 10, 
+	    "region": "West",
+	    "song": "I’m Spent",
+	    "artist": "Drake & Loe Shimmy",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Seattle",
+            "rank": 1, 
+	    "region": "West",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+{
+            "city": "Seattle",
+            "rank": 2, 
+	    "region": "West",
+	    "song": "Lies",
+	    "artist": "Zach Bryan, Lana Del Rey",
+	    "genre": "Country"
+        },
+{
+            "city": "Seattle",
+            "rank": 3, 
+	    "region": "West",
+	    "song": "Choosin' Texas",
+	    "artist": "Ella Langley",
+	    "genre": "Country"
+        },
+{
+            "city": "Seattle",
+            "rank": 4, 
+	    "region": "West",
+	    "song": "Nicole Kidman",
+	    "artist": "ADÉLA",
+	    "genre": "Pop"
+        },
+{
+            "city": "Seattle",
+            "rank": 5, 
+	    "region": "West",
+	    "song":"Bby WOW",
+	    "artist": "KAROL G, Judeline, rusowsky",
+	    "genre": "Latin"
+        },
+{
+            "city": "Seattle",
+            "rank": 6, 
+	    "region": "West",
+	    "song": "Solar Eclipse",
+	    "artist": "Drake, Don Toliver",
+	    "genre": "R&B/Soul"
+        },
+{
+            "city": "Seattle",
+            "rank": 7, 
+	    "region": "West",
+	    "song": "Been By Now",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Seattle",
+            "rank": 8, 
+	    "region": "West",
+	    "song": "Lodi When",
+	    "artist": "Zach Bryan",
+	    "genre": "Country"
+        },
+{
+            "city": "Seattle",
+            "rank": 9, 
+	    "region": "West",
+	    "song": "expectations",
+	    "artist": "Olivia Rodrigo, Chappell Roan",
+	    "genre": "Pop"
+        },
+{
+            "city": "Seattle",
+            "rank": 10, 
+	    "region": "West",
+	    "song": "Patient Zero",
+	    "artist": "Taylor Swift",
+	    "genre": "Pop"
+        },
+{
+            "city": "New York City",
+            "rank": 1, 
+	    "region": "Northeast",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+{
+            "city": "New York City",
+            "rank": 2, 
+	    "region": "Northeast",
+	    "song": "Quebec",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "New York City",
+            "rank": 3, 
+	    "region": "Northeast",
+	    "song": "Bby WOW",
+	    "artist": "KAROL G, Judeline, rusowsky",
+	    "genre": "Latin"
+        },
+{
+            "city": "New York City",
+            "rank": 4, 
+	    "region": "Northeast",
+	    "song": "Solar Eclipse",
+	    "artist": "Drake, Don Toliver",
+	    "genre": "R&B/Soul"
+        },
+{
+            "city": "New York City",
+            "rank": 5, 
+	    "region": "Northeast",
+	    "song": "Nicole Kidman",
+	    "artist": "ADÉLA",
+	    "genre": "Pop"
+        },
+{
+            "city": "New York City",
+            "rank": 6, 
+	    "region": "Northeast",
+	    "song": "Angel Of My Dreams",
+	    "artist": "JADE",
+	    "genre": "Pop"
+        },
+{
+            "city": "New York City",
+            "rank": 7, 
+	    "region": "Northeast",
+	    "song": "Janice STFU",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "New York City",
+            "rank": 8, 
+	    "region": "Northeast",
+	    "song": "Cold Shoulder",
+	    "artist": "Drake, Don Toliver, Yebba",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "New York City",
+            "rank": 9, 
+	    "region": "Northeast",
+	    "song": "PERRA",
+	    "artist": "Lil Naay",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "New York City",
+            "rank": 10, 
+	    "region": "Northeast",
+	    "song": "Alma Rota",
+	    "artist": "Dalvin La Melodia, El Blachy",
+	    "genre": "Latin"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 1, 
+	    "region": "Northeast",
+	    "song": "Quebec",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 2, 
+	    "region": "Northeast",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 3, 
+	    "region": "Northeast",
+	    "song": "Wanna Be Free",
+	    "artist": "Meek Mill (feat. G Herbo)",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 4, 
+	    "region": "Northeast",
+	    "song": "Solar Eclipse",
+	    "artist": "Drake, Don Toliver",
+	    "genre": "R&B/Soul"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 5, 
+	    "region": "Northeast",
+	    "song": "Lies",
+	    "artist": "Zach Bryan, Lana Del Rey",
+	    "genre": "Country"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 6, 
+	    "region": "Northeast",
+	    "song": "Janice STFU",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 7, 
+	    "region": "Northeast",
+	    "song": "Cold Shoulder",
+	    "artist": "Drake, Don Toliver, Yebba",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 8, 
+	    "region": "Northeast",
+	    "song": "In A Minute",
+	    "artist": "Lil Baby",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 9, 
+	    "region": "Northeast",
+	    "song": "Lodi When",
+	    "artist": "Zach Bryan",
+	    "genre": "Country"
+        },
+{
+            "city": "Philadelphia",
+            "rank": 10, 
+	    "region": "Northeast",
+	    "song": "WAIT FOR U",
+	    "artist": "Future (feat. Drake & Tems)",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Chicago",
+            "rank": 1, 
+	    "region": "Midwest",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+{
+            "city": "Chicago",
+            "rank": 2, 
+	    "region": "Midwest",
+	    "song": "Lies",
+	    "artist": "Zach Bryan, Lana Del Rey",
+	    "genre": "Country"
+        },
+{
+            "city": "Chicago",
+            "rank": 3, 
+	    "region": "Midwest",
+	    "song": "Bby WOW",
+	    "artist": "KAROL G, Judeline, rusowsky",
+	    "genre": "Latin"
+        },
+{
+            "city": "Chicago",
+            "rank": 4, 
+	    "region": "Midwest",
+	    "song": "Quebec",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Chicago",
+            "rank": 5, 
+	    "region": "Midwest",
+	    "song": "Solar Eclipse",
+	    "artist": "Drake, Don Toliver",
+	    "genre": "R&B/Soul"
+        },
+{
+            "city": "Chicago",
+            "rank": 6, 
+	    "region": "Midwest",
+	    "song": "Lodi When",
+	    "artist": "Zach Bryan",
+	    "genre": "Country"
+        },
+{
+            "city": "Chicago",
+            "rank": 7, 
+	    "region": "Midwest",
+	    "song": "Nicole Kidman",
+	    "artist": "ADÉLA",
+	    "genre": "Pop"
+        },
+{
+            "city": "Chicago",
+            "rank": 8, 
+	    "region": "Midwest",
+	    "song": "Janice STFU",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Chicago",
+            "rank": 9, 
+	    "region": "Midwest",
+	    "song": "Choosin' Texas",
+	    "artist": "Ella Langley",
+	    "genre": "Country"
+        },
+{
+            "city": "Chicago",
+            "rank": 10, 
+	    "region": "Midwest",
+	    "song": "Cold Shoulder",
+	    "artist": "Drake, Don Toliver, Yebba",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Detroit",
+            "rank": 1, 
+	    "region": "Midwest",
+	    "song": "Housewife",
+	    "artist": "Tate McRae",
+	    "genre": "Pop"
+        },
+{
+            "city": "Detroit",
+            "rank": 2, 
+	    "region": "Midwest",
+	    "song": "Lies",
+	    "artist": "Zach Bryan, Lana Del Rey",
+	    "genre": "Country"
+        },
+{
+            "city": "Detroit",
+            "rank": 3, 
+	    "region": "Midwest",
+	    "song": "Quebec",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Detroit",
+            "rank": 4, 
+	    "region": "Midwest",
+	    "song": "Been By Now",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Detroit",
+            "rank": 5, 
+	    "region": "Midwest",
+	    "song": "Solar Eclipse",
+	    "artist": "Drake, Don Toliver",
+	    "genre": "R&B/Soul"
+        }, {
+            "city": "Detroit",
+            "rank": 6, 
+	    "region": "Midwest",
+	    "song": "Janice STFU",
+	    "artist": "Drake",
+	    "genre": "Hip-Hop/Rap"
+        },
+{
+            "city": "Detroit",
+            "rank": 7, 
+	    "region": "Midwest",
+	    "song": "Last Thing You Need",
+	    "artist": "Morgan Wallen",
+	    "genre": "Country"
+        },
+{
+            "city": "Detroit",
+            "rank": 8, 
+	    "region": "Midwest",
+	    "song": "Lodi When",
+	    "artist": "Zach Bryan",
+	    "genre": "Country"
+        },
+{
+            "city": "Detroit",
+            "rank": 9, 
+	    "region": "Midwest",
+	    "song": "Nicole Kidman",
+	    "artist": "ADÉLA",
+	    "genre": "Pop"
+        },
+{
+            "city": "Detroit",
+            "rank": 10, 
+	    "region": "Midwest",
+	    "song": "LIKE ME",
+	    "artist": "Future (feat. 42 Dugg & Lil Baby)",
+	    "genre": "Hip-Hop/Rap"
+        }
+ ]
+}
